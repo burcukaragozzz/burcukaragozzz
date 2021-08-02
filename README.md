@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Burcu</h1>
 <h4 align="center">I am a front-end developer based in Istanbul. I have 1.5 years of professional experience and work for various teams and projects. I love to code with a strong workspace and a passion for what I can do.</h4>
 
+🌱 I’m currently learning **React, Vue**
 📫 How to reach me **burcuukrgz@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
